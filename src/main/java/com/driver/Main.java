@@ -7,7 +7,7 @@ public class Main {
         p.product(4,5,6);
         p.product(4.5,6.5);
     }
-class Product{
+public class Product{
     public int product (int x,int y){
         return x*y;
     }
